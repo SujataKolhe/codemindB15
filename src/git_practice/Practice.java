@@ -1,13 +1,10 @@
 package git_practice;
 
 public class Practice {
-	// adsdfdfgfghjyu
-	
-	void task() {
-		System.out.println("abshfkdkvffj");
+
+	void work() {
+		System.out.println("workdaily");
 		
 	}
-	
-	// dfdfgfhghjghfgf
 
 }
