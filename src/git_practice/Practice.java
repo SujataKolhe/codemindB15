@@ -1,12 +1,11 @@
 package git_practice;
 
 public class Practice {
-
-	void work() {
-		System.out.println("workdaily");
+	public static void main(String[]args) {
+     
+    System.out.println("monday");
+    
 		
-	}
-	
-	// anchgfkteutyocgghds
+	}}
 
-}
+
