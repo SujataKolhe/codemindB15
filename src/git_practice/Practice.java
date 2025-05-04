@@ -6,5 +6,8 @@ public class Practice {
 		System.out.println("workdaily");
 		
 	}
+	void task() {
+		System.out.println("Wednesday");
+	}
 
 }
