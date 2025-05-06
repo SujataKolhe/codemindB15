@@ -14,7 +14,7 @@ public class BubbleWhile {
 				arr[i] = arr[j];
 				arr[j] = temp;
 			}
-j++;
+         j++;
 		}
 		System.out.println(arr[i]);
 		i++;
